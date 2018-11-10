@@ -35,12 +35,12 @@ let myFunction= function myRotateFunction() {
   rotate(angle);
  }
 let interval = 0
-let settingInterval= function startRotating(){
+let myStartFunction= function startRotating(){
  clearInterval(interval);
  interval = setInterval(myFunction,1);
  }
 
-btn.addEventListener('click',settingInterval);
+btn.addEventListener('click',myStartFunction);
 
 let myStopFunction = function(){
   clearInterval(interval);
