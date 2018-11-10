@@ -1,0 +1,15 @@
+#bigCircle {
+  height: 400px;
+  width: 400px;
+  background-color: #bbb;
+  border-radius: 50%;
+  position: relative;
+  display: inline-block;
+}
+#circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: red;
+}
