@@ -21,6 +21,17 @@
 
 __There are two possible grades for this assignment: P and F (Pass, Fail)__
 
-## Grade: __To Be Added__
+## Grade: P
+
+## Feedback
+- Pay attantion to code style
+    - Only the third declaration is correct regarding the code style(try to be consistent)
+    ```js
+    let x =150;
+    let y= 150;
+    let r = 200
+    ```
+    - Also pay attantion to indentations
+    - [For Reference]("https://github.com/airbnb/javascript")
 
 \* DO NOT CHANGE THIS DOCUMENT, the reviewer will check the homework and add the grade
